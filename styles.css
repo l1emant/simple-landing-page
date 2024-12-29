@@ -239,3 +239,55 @@ img {
     display: flex;
     justify-content: flex-end;
 }
+
+/*CTA BUTTON*/
+
+.cta {
+    /* border: 2px solid white; */
+    height: 300px;
+    color: #DFF3E4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    width: 900px;
+    background-color: #FAF6E3;
+    height: 150px;
+    border-radius: 12px;
+    
+    
+}
+
+.cta-text {
+    /* border: 2px dashed lime; */
+    display: flex;
+    flex: 0 0 auto;
+    background-color: #FAF6E3;
+    color: #D4AF37;
+    font-size: 26px;
+    font-weight: 700px;
+}
+
+.cta-button-container{
+    /* border: 2px solid rgb(72, 67, 161); */
+    /* display: flex; */
+    background-color: #FAF6E3;
+}
+
+.cta-button {
+    padding: 1rem;
+    margin: 1rem 0;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #FAF6E3;
+    color: #D4AF37;
+    border-radius: 12px;
+}
+
+
